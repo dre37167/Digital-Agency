@@ -170,3 +170,55 @@ p {
 .social-icons a:hover img {
   transform: translateY(-10px);
 }
+/* footer section */
+
+.footer-img {
+  background-image: linear-gradient(to right, #636e72, #ba1655);
+  color: #fff;
+}
+
+.footer-img {
+  width: 100%;
+
+}
+
+}
+.footer-box{
+  width: 120px;
+  margin-bottom: 20px;
+}
+.footer-box .fa {
+  margin-right: 8px;
+  font-size: 25px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 7px;
+  border-radius: 2px;
+  background-image: linear-gradient(to right, #636e72, #ba1655);
+}
+
+.footer-box .form-control{
+  box-shadow: none !important;
+  border: 2px solid #ba1655!important;
+  border-radius: 0;
+  margin-top: 25px;
+  max-width: 250px;
+  background-image: linear-gradient(to right, #636e72, #ba1655);
+}
+.footer-box .btn-primary{
+  box-shadow: none !important;
+  border: none;
+  border-radius: 0;
+  margin-top: 30px;
+  background-image: linear-gradient(to right, #636e72, #ba1655);
+}
+hr {
+  background-color: #ba1655;
+}
+
+.copyright{
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  text-align: center;
+}
