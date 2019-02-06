@@ -106,3 +106,60 @@ p {
   display: block;
   transform: translateY(8px);
 }
+
+#services .btn-primary{
+  box-shadow: none;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #636e72, #ba1655);
+}
+
+/* about us */
+#about-us{
+  background: #f8f9fa;
+  padding-top: 50px;
+  padding-top: 50px;
+}
+.about-title{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 8%;
+}
+#about-us ul li {
+  margin: 10px 0;
+}
+#about-us ul{
+  margin-left: 20px;
+}
+/* testimonials section */
+
+#testimonials {
+  margin: 100px 0;
+}
+.testimonials {
+  border-left: 4px solid #7b1798;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.testimonials img {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+.user-details{
+  display: inline-block;
+  font-size: 12px;
+}
+
+/* social media section */
+#social-media {
+  background: #f8f9fa;
+  padding: 100px 0;
+}
+#social-media p{
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 36px;
+}
